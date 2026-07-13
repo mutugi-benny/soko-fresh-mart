@@ -1,0 +1,13 @@
+store_id,store_name,town,region,opened_date,store_size_sqm
+1,Soko Fresh Mart - Nairobi CBD,Nairobi CBD,Nairobi,2020-02-25,250
+2,Soko Fresh Mart - Westlands,Westlands,Nairobi,2016-02-29,250
+3,Soko Fresh Mart - Kilimani,Kilimani,Nairobi,2017-10-14,600
+4,Soko Fresh Mart - Eastleigh,Eastleigh,Nairobi,2017-06-13,400
+5,Soko Fresh Mart - Karen,Karen,Nairobi,2020-10-12,400
+6,Soko Fresh Mart - Mombasa Nyali,Mombasa Nyali,Coast,2020-05-24,400
+7,Soko Fresh Mart - Mombasa Island,Mombasa Island,Coast,2021-10-17,250
+8,Soko Fresh Mart - Kisumu Milimani,Kisumu Milimani,Nyanza,2016-07-25,1200
+9,Soko Fresh Mart - Nakuru Town,Nakuru Town,Rift Valley,2018-09-27,250
+10,Soko Fresh Mart - Eldoret Town,Eldoret Town,Rift Valley,2016-03-11,1200
+11,Soko Fresh Mart - Thika,Thika,Central,2017-06-02,800
+12,Soko Fresh Mart - Machakos,Machakos,Eastern,2019-04-13,250

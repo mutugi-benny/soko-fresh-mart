@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# PostgreSQL local artifacts
+*.log
+pgdata/
+
+# Environment/config files that might contain credentials
+.env
+*.pgpass
+config.local.sql
+
+# Temp/export files
+*.tmp
+/exports/

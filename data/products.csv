@@ -1,0 +1,45 @@
+product_id,product_name,category,unit_price,supplier
+1,Tomatoes 1kg,Fresh Produce,1200,Brookside Dairy
+2,Sukuma Wiki bunch,Fresh Produce,20,Twiga Foods
+3,Bananas 1kg,Fresh Produce,80,Local Farmers Coop
+4,Onions 1kg,Fresh Produce,100,Unga Group
+5,Avocado each,Fresh Produce,25,Twiga Foods
+6,Mangoes 1kg,Fresh Produce,150,Kenafric Industries
+7,Milk 500ml,Dairy & Eggs,65,Bidco Africa
+8,Eggs tray(30),Dairy & Eggs,450,Brookside Dairy
+9,Yoghurt 500ml,Dairy & Eggs,120,Bidco Africa
+10,Cheese 200g,Dairy & Eggs,380,Local Farmers Coop
+11,Butter 250g,Dairy & Eggs,320,Bidco Africa
+12,White Bread 400g,Bakery,65,Twiga Foods
+13,Brown Bread 400g,Bakery,75,Fresh Direct Ltd
+14,Mandazi pack(6),Bakery,100,Local Farmers Coop
+15,Cake slice,Bakery,150,Unga Group
+16,Soda 500ml,Beverages,70,Bidco Africa
+17,Bottled Water 1L,Beverages,60,Fresh Direct Ltd
+18,Juice 1L,Beverages,180,Brookside Dairy
+19,Coffee 250g,Beverages,420,Fresh Direct Ltd
+20,Tea Leaves 250g,Beverages,210,Fresh Direct Ltd
+21,Maize Flour 2kg,Grains & Cereals,180,Naivas Suppliers Ltd
+22,Rice 2kg,Grains & Cereals,340,Bidco Africa
+23,Wheat Flour 2kg,Grains & Cereals,190,Bidco Africa
+24,Beans 1kg,Grains & Cereals,220,Unga Group
+25,Lentils 1kg,Grains & Cereals,260,Fresh Direct Ltd
+26,Detergent 1kg,Household,280,Kenafric Industries
+27,Dish Soap 500ml,Household,150,Brookside Dairy
+28,Toilet Paper(4),Household,220,Local Farmers Coop
+29,Air Freshener,Household,320,Brookside Dairy
+30,Bar Soap,Personal Care,90,Twiga Foods
+31,Toothpaste 100g,Personal Care,160,Twiga Foods
+32,Shampoo 400ml,Personal Care,380,Local Farmers Coop
+33,Lotion 400ml,Personal Care,350,Brookside Dairy
+34,Chicken 1kg,Meat & Poultry,480,Bidco Africa
+35,Beef 1kg,Meat & Poultry,650,Naivas Suppliers Ltd
+36,Goat Meat 1kg,Meat & Poultry,720,Naivas Suppliers Ltd
+37,Fish 1kg,Meat & Poultry,550,Kenafric Industries
+38,Crisps 150g,Snacks & Confectionery,120,Unga Group
+39,Chocolate Bar,Snacks & Confectionery,150,Local Farmers Coop
+40,Biscuits 200g,Snacks & Confectionery,90,Local Farmers Coop
+41,Sweets pack,Snacks & Confectionery,60,Kenafric Industries
+42,Diapers pack(20),Baby & Kids,850,Fresh Direct Ltd
+43,Baby Formula 400g,Baby & Kids,1200,Fresh Direct Ltd
+44,Baby Wipes(80),Baby & Kids,320,Kenafric Industries
