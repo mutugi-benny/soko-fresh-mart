@@ -14,12 +14,13 @@ A complete, realistic **data cleaning + exploratory data analysis (EDA)** projec
 
 > Add 2–3 screenshots here once you've run the project locally — see [`docs/SCREENSHOTS_GUIDE.md`](docs/SCREENSHOTS_GUIDE.md) for exactly how to generate clean, presentable ones from pgAdmin or psql.
 
-```
-docs/screenshots/
-├── 01_schema_erd.png
-└── 02_data_quality_report.png
-```
+## 📸 Preview
 
+**Database Schema (ERD)**
+![Schema ERD](docs/screenshots/01_schema_erd.png)
+
+**Data Quality Report**
+![Data Quality Report](docs/screenshots/02_data_quality_report.png)
 ---
 
 ## 🧩 What's Inside
