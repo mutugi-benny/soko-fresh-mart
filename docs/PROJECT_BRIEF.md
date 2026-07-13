@@ -118,9 +118,9 @@ Use this rubric to self-assess once you've attempted all 32 questions. Be honest
 | **Communication (Q32)** | The leadership summary is written in plain business language, not SQL jargon — a non-technical exec could act on it | |
 
 **Scoring guide:**
-- **28–32 (5s across the board):** Exam-ready. You're translating business questions into SQL fluently.
-- **20–27:** Solid foundation — revisit whichever category scored lowest before exam day.
-- **Below 20:** Go back to the specific DataCamp course tied to your weakest category (see your 13-day guide) before attempting these questions again.
+- **28–32 (5s across the board):** You're translating business questions into SQL fluently.
+- **20–27:** Solid foundation — revisit whichever category scored lowest.
+- **Below 20:** Go back to the books and come back stronger.
 
 ---
 
