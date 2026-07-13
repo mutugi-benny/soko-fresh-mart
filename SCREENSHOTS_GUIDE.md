@@ -59,7 +59,7 @@ Then update the `README.md` preview section to actually embed them instead of ju
 ## 📸 Preview
 
 ![Schema ERD](docs/screenshots/01_schema_erd.png)
-![Revenue by Store](docs/screenshots/02_revenue_by_store.png)
+![Data Quality Report](docs/screenshots/02_data_quality_report.png)
 ```
 
 That's it — GitHub will render these inline automatically once pushed.
