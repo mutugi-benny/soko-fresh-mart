@@ -55,7 +55,7 @@ If `\copy` gives a path error, either `cd` into the `sql/` folder first (as show
 
 ## 4. Questions To Answer
 
-Organized to mirror the exam's three sections. Work through them roughly in order — later questions build on earlier cleaning work.
+Organized to mirror an exam's scenario. Work through them roughly in order — later questions build on earlier cleaning work.
 
 ### Section A — Data Management: Extraction, Joins & Aggregation (Exam-style: 50%)
 
@@ -90,7 +90,7 @@ Organized to mirror the exam's three sections. Work through them roughly in orde
 23. Find products whose `unit_price` looks like an outlier relative to others in the same category (IQR method).
 24. Write one consolidated **data quality report query** (or a small set of queries) that leadership could run monthly to see: % missing emails, % missing phones, count of orphaned store_ids, count of invalid quantities, count of likely duplicate customers.
 
-### Section D — Exploratory Data Analysis (Exam-style: 33%)
+### Section D — Exploratory Data Analysis (Exam-style)
 
 25. Produce the query that would feed a **histogram** of order values (bucket total order value into ranges, e.g., 0-500, 500-1000, 1000-2000, 2000+, and count orders in each bucket).
 26. Produce the query that would feed a **bar chart** comparing total revenue by store.
